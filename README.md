@@ -4,7 +4,7 @@
 I like to make websites and apps for fun. Open source advocate (Aka fan).
 
 The project I am currently working on is [Bar Automation](https://barautomation.digital/) it is a chrome extension to help you suere limited items for retail cost.
-I'm currently trying to learn react JS and SWFT.
+I'm currently trying to learn react JS and Swift.
 
 -----------------------
 Follow me on Twitter [@roroAI0](https://twitter.com/roroAI0) and dm on Discord if you want to @roro#9999
