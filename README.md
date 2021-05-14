@@ -1,4 +1,4 @@
-### Hello I am roro. 🎢
+### roro. 🎢
 -----------------------
 
 I like to make websites and apps for fun. Open source advocate.
