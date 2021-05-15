@@ -10,6 +10,7 @@ I'm currently trying to learn react JS and Swift.
 -----------------------
 
 Twitter: [@roroAI0](https://twitter.com/roroAI0)
+
 Discord: @roro#9999
 
 
