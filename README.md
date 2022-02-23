@@ -1,7 +1,7 @@
 
 ### roro.
 
-🦆 Twitter: [@roroAI0](https://twitter.com/roroAI0)
+🦆 Twitter: [@roro9999_](https://twitter.com/roro9999_)
 
 ✍️ Dribbble: [@roro9999](https://dribbble.com/roro9999)
 
