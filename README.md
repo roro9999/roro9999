@@ -3,8 +3,6 @@
 
 my name is Rowan I design and create web apps
 
-### Programming languages:
-&emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
