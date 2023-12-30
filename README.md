@@ -14,8 +14,6 @@ My name is Rowan I design and create web apps
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<br>
 
-![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roro9999&show_icons=true&theme=transparent)
 
 
